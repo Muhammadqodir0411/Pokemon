@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    background: #FFD845;
+}
+
+.header-title {
+    font-family: 'Berkshire Swash';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 40px;
+    color: #000000;
+}
+
+#wrap {
+    display: flex;
+    justify-content: space-between;
+}
